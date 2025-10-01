@@ -1,0 +1,2 @@
+The above files are exercise demonstrations of core NumPy and Pandas skills such as: 
+Creating Arrays, Array Properties, Indexing & Slicing, Array Operations, Aggregation Functions, Reshaping & Stacking, Random Numbers, Data Structures, Importing/Exporting Data, Indexing & Selection, Data Cleaning, Data Transformation: Apply functions, Sorting & Ranking, Aggregations & Grouping, Merging & Joining, Reshaping and etc.
